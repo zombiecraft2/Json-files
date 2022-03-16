@@ -1,4 +1,14 @@
 {
-  "name": "Main",
-  "var 2": 1
+  "Entity_1": {
+    "Level": 1,
+    "Type": 1
+  },
+  "Entity_2": {
+    "Level": 1,
+    "Type": 2
+  },
+  "Entity_3": {
+    "Level": 1,
+    "Type": 3
+  }
 }
